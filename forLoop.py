@@ -1,4 +1,4 @@
 
 
-for each_item in range(3):
+for each_item in range(10):
     print(each_item)
