@@ -7,7 +7,6 @@ def cwd():
     print("The directory contains the following file:")
     for each_file in os.listdir(path):
         print(each_file)
-
 def run():
     print("Processing...")
     cwd()
